@@ -1,3 +1,7 @@
+
+html, body {
+    height: 500px;
+}
 .heading {
     padding: 30px;
     cursor: pointer;
@@ -11,4 +15,8 @@
     color: #e83283!important;
 }
 
+.alert {
+
+    transition: opacity 2s ease;
+}
 
