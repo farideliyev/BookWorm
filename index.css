@@ -1,0 +1,14 @@
+.heading {
+    padding: 30px;
+    cursor: pointer;
+}
+.heading:hover .first{
+
+    color:  #fd7e14!important;
+}
+
+.heading:hover .last {
+    color: #e83283!important;
+}
+
+
